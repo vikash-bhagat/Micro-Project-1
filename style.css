@@ -1,0 +1,80 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.section{
+  background-color: white;
+}
+.heroSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffcd9e;
+  padding-left: 80px;
+}
+.main-content {
+  position: relative;
+  bottom: 45px;
+}
+.main-content h1 {
+  margin-bottom: 30px;
+}
+.content{
+  line-height: 32px;
+}
+.bold{
+  margin-left:0px;
+  margin-top: 20px;
+}
+.button{
+  margin-top: 20px;
+}
+ .email-input {
+  height:40px;
+  width:216px;
+  border: 2px solid #000000;
+  border-radius: 8px;
+}
+.Register {
+   height:40px;
+   width:216px;
+  background-color: #282828;
+  color: #ffffff;
+  border: 2px solid #000000;
+  border-radius: 8px;
+  margin-left: 5px;
+}
+.note {
+  margin-top: 20px;
+  margin-left:25px;
+  font-size: 11px;
+  color: #ffffff;
+}
+.footer {
+  display: flex;
+  background-color: black;
+  height: 250px;
+  color: white;
+  padding-top: 35px;
+  padding-left: 100px;
+}
+.first{
+  margin-left: 50px;
+}
+.second{
+  margin-left: 500px;
+}
+.dweep{
+  margin-left:90px ;
+}
+.image{
+  padding-left: 90px;
+}
+.e-mail{
+  margin-top: 25px;
+  margin-left:48px;
+}
+ol p {
+  margin-bottom: 5px;
+}
