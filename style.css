@@ -3,9 +3,7 @@
   padding: 0px;
   box-sizing: border-box;
 }
-.section{
-  background-color: white;
-}
+
 .heroSection {
   display: flex;
   justify-content: center;
@@ -48,22 +46,26 @@
 .note {
   margin-top: 20px;
   margin-left:25px;
-  font-size: 11px;
+  font-size: 14px;
   color: #ffffff;
 }
 .footer {
   display: flex;
+  height: 21rem;
   background-color: black;
-  height: 250px;
   color: white;
   padding-top: 35px;
   padding-left: 100px;
 }
 .first{
-  margin-left: 50px;
+  position: relative;
+  left:120px;
+  line-height: 25px;
 }
 .second{
-  margin-left: 500px;
+ position: relative;
+ left: 750px;
+ line-height: 25px;
 }
 .dweep{
   margin-left:90px ;
